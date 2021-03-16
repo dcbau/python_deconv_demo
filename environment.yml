@@ -1,0 +1,9 @@
+name: python_deconv_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - python-sounddevice
+  - matplotlib
+  - scipy
