@@ -6,6 +6,3 @@ dependencies:
   - numpy
   - matplotlib
   - scipy
-  - pip
-  - pip:
-    - audio
